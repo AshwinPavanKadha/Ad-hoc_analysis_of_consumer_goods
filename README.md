@@ -19,7 +19,13 @@ The Main objective is to give insightful information for 10 Queries and visualiz
 Question 1:
 Provide the list of markets in which customer "Atliq Exclusive" operates 
 its business in the APAC region.
-![image](https://github.com/AshwinPavanKadha/Ad-hoc_analysis_of_consumer_goods/assets/131484545/d2287f83-979e-47bd-aea4-c23cf362521c)
+<img width="315" alt="Q1" src="https://github.com/AshwinPavanKadha/Ad-hoc_analysis_of_consumer_goods/assets/131484545/435ddfb2-692a-4874-8fed-2785c4fa86a9">
+<img width="98" alt="A1" src="https://github.com/AshwinPavanKadha/Ad-hoc_analysis_of_consumer_goods/assets/131484545/bc802359-5fb6-4cb8-b5a9-225a12124314">
+![image](https://github.com/AshwinPavanKadha/Ad-hoc_analysis_of_consumer_goods/assets/131484545/44972900-1408-4f3a-b38f-43c99a805654)
+
+
+
+
 
 
 
