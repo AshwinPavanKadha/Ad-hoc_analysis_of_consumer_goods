@@ -102,7 +102,7 @@ Generate a report which contains the top 5 customers who received an average hig
 <img width="437" alt="Q6" src="https://github.com/AshwinPavanKadha/Ad-hoc_analysis_of_consumer_goods/assets/131484545/b1aa0a0c-fec8-4659-a5a3-c5f75d4dfdfb">
 
 
-result set
+Result set
 
 <img width="264" alt="A6" src="https://github.com/AshwinPavanKadha/Ad-hoc_analysis_of_consumer_goods/assets/131484545/2e13197c-4d14-47a6-95ad-978d4b80c0a3">
 
@@ -181,7 +181,8 @@ Result set
 
 
 
-![image](https://github.com/AshwinPavanKadha/Ad-hoc_analysis_of_consumer_goods/assets/131484545/780a6361-d01e-420d-8207-2d5dc372b1b2)
+![image](https://github.com/AshwinPavanKadha/Ad-hoc_analysis_of_consumer_goods/assets/131484545/dfa12faf-c6cf-4fba-b272-0dbbb3400099)
+
 
 
 
