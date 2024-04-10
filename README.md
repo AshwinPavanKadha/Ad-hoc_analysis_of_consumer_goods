@@ -17,13 +17,45 @@ The Main objective is to give insightful information for 10 Queries and visualiz
 
 
 Question 1:
+
 Provide the list of markets in which customer "Atliq Exclusive" operates 
 its business in the APAC region.
+
 <img width="315" alt="Q1" src="https://github.com/AshwinPavanKadha/Ad-hoc_analysis_of_consumer_goods/assets/131484545/435ddfb2-692a-4874-8fed-2785c4fa86a9">
 
+Result set:
 
 <img width="98" alt="A1" src="https://github.com/AshwinPavanKadha/Ad-hoc_analysis_of_consumer_goods/assets/131484545/bc802359-5fb6-4cb8-b5a9-225a12124314">
-![image](https://github.com/AshwinPavanKadha/Ad-hoc_analysis_of_consumer_goods/assets/131484545/44972900-1408-4f3a-b38f-43c99a805654)
+
+
+Question 2:
+
+What is the percentage of unique product increase in 2021 vs. 2020? 
+
+<img width="436" alt="Q2" src="https://github.com/AshwinPavanKadha/Ad-hoc_analysis_of_consumer_goods/assets/131484545/a449a49c-8b16-4cf8-b2ae-4dfaae31f778">
+
+Result set:
+
+<img width="274" alt="A2" src="https://github.com/AshwinPavanKadha/Ad-hoc_analysis_of_consumer_goods/assets/131484545/9c3545b2-65da-4636-9daa-27a250fe8a2f">
+
+
+Question 3:
+
+Provide a report with all the unique product counts for each segment and sort them in descending order of product counts.
+
+![image](https://github.com/AshwinPavanKadha/Ad-hoc_analysis_of_consumer_goods/assets/131484545/fec4ab73-bd35-4adc-84c3-d7fce73648a8)
+
+Result set:
+
+<img width="172" alt="A3" src="https://github.com/AshwinPavanKadha/Ad-hoc_analysis_of_consumer_goods/assets/131484545/fcea3a62-5ed3-4237-9357-1aca6654e4ef">
+
+
+<img width="492" alt="P3" src="https://github.com/AshwinPavanKadha/Ad-hoc_analysis_of_consumer_goods/assets/131484545/256f4f83-e208-45ce-aee3-d31b60c465a1">
+
+
+
+
+
 
 
 
